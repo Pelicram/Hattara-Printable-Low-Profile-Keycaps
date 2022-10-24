@@ -1,6 +1,6 @@
 
 # Printable Choc Caps
-3D Printable Choc V1 keycaps, designed to be printed on Resin, SLS or MJF printers on sites like JLCPCB. The tolerances have been tested to work with SLS but I can't promise they'll work with other manufacturing methods. Let me know if you order these in MJF or Resin, and how they fit.
+3D Printable Choc V1 keycaps, designed to be printed with Resin, SLS or MJF printers on sites like JLCPCB. The tolerances have been tested to work with SLS but I can't promise they'll work with other manufacturing methods. Let me know if you order these in MJF or Resin, and how they fit.
 
 Included sizes:
 * 1u
