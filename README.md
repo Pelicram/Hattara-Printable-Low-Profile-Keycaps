@@ -20,4 +20,4 @@ Keycaps shown have been printed in Nylon on an SLS printer by JLCPCB
 
 ---
 
-_Licenced under [CERN OHL v2 Permissive](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)_
+_Licenced under [The TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)_
