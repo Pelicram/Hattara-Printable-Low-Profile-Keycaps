@@ -7,12 +7,26 @@ Included sizes:
 * 1.25u
 * 1.5u
 * ISO Enter (sideways switch)
-* Homing keys (scoop and dot)
+* Homing keys (6 variants)
 
 The files include individual caps as well as sprues. I highly recommend using the sprues as this ensures the parts meet the common minimum price per part on sites like JLCPCB, at least for SLS and MJF.
 
 JLCPCB accepts both .obj and .stp, but in my experience .obj results in higher fidelity due to how they convert .stp files into meshes. The .stp files are included mostly for remix purposes.
 
+Renders
+---
+1u-sprue            |  1_25u-sprue
+:-------------------------:|:-------------------------:
+![](https://imgur.com/6zdEVQP.jpg)  |  ![](https://imgur.com/Z7SjlUf.jpg)
+1_5u-sprue  | iso-sprue
+![](https://imgur.com/u6lAWD6.jpg)  |  ![](https://imgur.com/cOh0V55.jpg)
+homing-bars-sprue | homing-scoops-sprue
+![](https://imgur.com/vX6HqIQ.jpg)  |  ![](https://imgur.com/cOb5Qml.jpg)
+homing-dots-sprue | 
+![](https://imgur.com/T4L71bX.jpg) | 
+
+
+Examples
 ---
 
 Keycaps shown have been printed in Nylon on an SLS printer by JLCPCB
@@ -22,5 +36,7 @@ Keycaps shown have been printed in Nylon on an SLS printer by JLCPCB
 <img src="https://i.imgur.com/bcOGCzu.jpeg" alt="header" width="1000"/>
 
 ---
+
+
 
 _Licenced under [The TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)_
