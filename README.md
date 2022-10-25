@@ -18,6 +18,7 @@ Keycaps shown have been printed in Nylon on an SLS printer by JLCPCB
 
 <img src="https://i.imgur.com/OzexXkz.jpeg" alt="header" width="1000"/>
 <img src="https://i.imgur.com/MoePBmr.jpeg" alt="header" width="1000"/>
+<img src="https://i.imgur.com/bcOGCzu.jpeg" alt="header" width="1000"/>
 
 ---
 
