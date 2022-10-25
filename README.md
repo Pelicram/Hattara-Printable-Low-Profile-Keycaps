@@ -7,6 +7,7 @@ Included sizes:
 * 1.25u
 * 1.5u
 * ISO Enter (sideways switch)
+* Homing keys (scoop and dot)
 
 The files include individual caps as well as sprues. I highly recommend using the sprues as this ensures the parts meet the common minimum price per part on sites like JLCPCB, at least for SLS and MJF.
 
