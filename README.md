@@ -13,6 +13,8 @@ The files include individual caps as well as sprues. I highly recommend using th
 
 JLCPCB accepts both .obj and .stp, but in my experience .obj results in higher fidelity due to how they convert .stp files into meshes. The .stp files are included mostly for remix purposes.
 
+The automatic file checker on JLC/etc will probably complain about 0.8mm thin walls, just say you're ok with it. From my testing it has no effect on print quality.
+
 Renders
 ---
 1u-sprue            |  1_25u-sprue
