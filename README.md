@@ -3,7 +3,7 @@
 
 *MX versions coming soon!*
 
-3D Printable Low Profile MX/Choc Keycaps, designed to be printed with SLS, MJF or resin printers on sites like JLCPCB or PCBWay. The tolerances have been tested to work with SLS but I can't promise they'll work with other manufacturing methods. Let me know if you order these in MJF or Resin, and how they fit.
+3D Printable Low Profile MX/Choc Keycaps, designed to be printed with SLS, MJF or resin printers on sites like JLCPCB and PCBWay. The tolerances have been tested to work with SLS but I can't promise they'll work with other manufacturing methods. Let me know if you order these in MJF or Resin, and how they fit.
 
 Included sizes:
 * 1u
