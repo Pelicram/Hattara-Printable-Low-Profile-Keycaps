@@ -1,7 +1,7 @@
 
 # Hattara Printable Low Profile Keycaps
 
-3D Printable Low Profile MX/Choc V1 Keycaps, designed to be printed with SLS, MJF or resin printers on sites like JLCPCB and PCBWay. The tolerances have been tested to work with SLS but I can't promise they'll work with other manufacturing methods. Let me know if you order these in MJF or Resin, and how they fit.
+3D Printable Low Profile MX/Choc V1 Keycaps, designed to be printed with SLS, MJF or resin printers on sites like JLCPCB and PCBWay. The tolerances have been tested to work with SLS and MJF.
 
 ## Versions
 
@@ -55,7 +55,14 @@ homing-dots-sprue | iso-sprue
 
 ## Examples
 
-Keycaps shown have been printed in Nylon on an SLS printer by JLCPCB
+**Comparison between SLS and MJF Nylon prints.**
+
+SLS has a more pronounced texture, and feels almost like sandstone. MJF has a smoother finish and is closer to textured PBT plastic. MJF is darker (when you pick the `Dyed Black` option, not sure about the non-dyed stuff). Dimensional accuracy is excellent for both and the tolerances required are identical. The camera captures more texture than is visible to the naked eye especially under this extreme lighting, so they'll look a bit smoother IRL.
+![Alt text](./_Images/sls-mjf.jpg)
+
+---
+
+Keycaps shown below have been printed in Nylon on an SLS printer by JLCPCB.
 
 ![](_Images/example%201.jpeg)
 ![](_Images/example%202.jpeg)
