@@ -57,7 +57,7 @@ homing-dots-sprue | iso-sprue
 
 **Comparison between SLS and MJF Nylon prints.**
 
-SLS has a more pronounced texture, and feels almost like sandstone. MJF has a smoother finish and is closer to textured PBT plastic. MJF is darker (when you pick the `Dyed Black` option, not sure about the non-dyed stuff). Dimensional accuracy is excellent for both and the tolerances required are identical. The camera captures more texture than is visible to the naked eye especially under this extreme lighting, so they'll look a bit smoother IRL.
+SLS has a more pronounced texture, and feels almost like sandstone. MJF has a smoother finish and is closer to textured PBT plastic. MJF is darker (when you pick the `Dyed Black` option, not sure about the non-dyed stuff). Dimensional accuracy is excellent for both and the tolerances required are identical.
 ![Alt text](./_Images/sls-mjf.jpg)
 
 ---
